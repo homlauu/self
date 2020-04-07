@@ -1,0 +1,13 @@
+#redhat
+192.168.1.199 (redhat homlau homlau)
+192.168.1.199 (redhat oracle oracle)
+192.168.1.199 (redhat root homlau)
+
+#CentOS-6.5dvd
+192.168.1.200 (centos root root123)
+192.168.1.201 (centos root root123)
+192.168.1.202 (centos root root123)
+192.168.1.210 (centos root root123)
+192.168.1.211 (centos root root123)
+192.168.1.212 (centos root root123)
+192.168.1.213 (centos root root123)
